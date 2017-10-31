@@ -266,4 +266,38 @@ Connection ~ 7800 2950
 Wire Wire Line
 	9850 6600 9850 6950
 Connection ~ 9850 6950
+$Comp
+L R R4
+U 1 1 59F7D580
+P 6850 2350
+F 0 "R4" V 6930 2350 50  0000 C CNN
+F 1 "4.7k" V 6850 2350 50  0000 C CNN
+F 2 "" V 6780 2350 50  0001 C CNN
+F 3 "" H 6850 2350 50  0001 C CNN
+	1    6850 2350
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R4
+U 1 1 59F7D5AF
+P 6500 2350
+F 0 "R4" V 6580 2350 50  0000 C CNN
+F 1 "4.7k" V 6500 2350 50  0000 C CNN
+F 2 "" V 6430 2350 50  0001 C CNN
+F 3 "" H 6500 2350 50  0001 C CNN
+	1    6500 2350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6500 2200 6500 1850
+Connection ~ 6500 1850
+Wire Wire Line
+	6500 2500 6500 2950
+Connection ~ 6500 2950
+Wire Wire Line
+	6850 1750 6850 2200
+Connection ~ 6850 1750
+Wire Wire Line
+	6850 2500 6850 2950
+Connection ~ 6850 2950
 $EndSCHEMATC
