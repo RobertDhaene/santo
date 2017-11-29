@@ -30,7 +30,7 @@ version=1
 LibDir=
 [eeschema/libraries]
 LibName1=santo_left-rescue
-LibName2=C:/Users/rodhaene/src/kicad_lib_tmk/keyboard_parts
+LibName2=../../../../src/kicad_lib_tmk/keyboard_parts
 LibName3=power
 LibName4=device
 LibName5=switches
