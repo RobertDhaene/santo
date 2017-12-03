@@ -1,4 +1,4 @@
-update=11/26/2017 05:45:03
+update=12/3/2017 3:37:38 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -63,3 +63,4 @@ LibName31=opto
 LibName32=atmel
 LibName33=contrib
 LibName34=valves
+LibName35=C:/Users/Robert/src/santo/Hardware/Components/cx3225sb16000d0gzjc1

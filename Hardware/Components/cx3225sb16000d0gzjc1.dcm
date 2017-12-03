@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CX3225SB16000D0GZJC1
+D AVX Corp/Kyocera Corp Crystal 16MHz
+K Crystal
+F https://www.digikey.com/product-detail/en/avx-corp-kyocera-corp/CX3225SB16000D0GZJC1/1253-1698-1-ND/5995245
+$ENDCMP
+#
+#End Doc Library
